@@ -3,9 +3,9 @@
 Allows ESP8266 & ESP32 boards to control  a servo . 
 This library can control a many types of servos. It makes use of the ESPXX PWM timers.
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/RTOS-Servo-library/total?color=green)](https://github.com/achimpieters/RTOS-Servo-library/releases) 
+[![GitHub All Releases](https://img.shields.io/github/downloads/AchimPieters/RTOS-Servo-library/total?color=green)](https://github.com/AchimPieters/RTOS-Servo-library/releases) 
 [![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/LICENSE)
-[![GitHub license](https://img.shields.io/github/v/release/achimpieters/RTOS-Servo-library)](https://img.shields.io/github/v/release/achimpieters/RTOS-Servo-library)
+[![GitHub license](https://img.shields.io/github/v/release/AchimPieters/RTOS-Servo-library)](https://img.shields.io/github/v/release/AchimPieters/RTOS-Servo-library)
 [![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
 
 ## PWM Pins
@@ -20,6 +20,7 @@ You can change the PWM pin in <b><i>servo.c</i></b>. The default PWM pin is `GPI
 MIT licensed. See the bundled [LICENSE file](https://github.com/AchimPieters/RTOS-Servo-library/blob/main/LICENSE) for more details.
 
 Copyright © 2022 StudioPieters<sup>®</sup> | https://www.studiopieters.nl
+
 
 
 
