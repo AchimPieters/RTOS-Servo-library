@@ -19,7 +19,7 @@ You can change the PWM pin in <b><i>servo.c</i></b>. The default PWM pin is `GPI
 
 MIT licensed. See the bundled [LICENSE file](https://github.com/AchimPieters/RTOS-Servo-library/blob/main/LICENSE) for more details.
 
-Copyright © 2022 StudioPieters<sup>®</sup> | https://www.studiopieters.nl
+2022 StudioPieters<sup>®</sup> | https://www.studiopieters.nl
 
 
 
